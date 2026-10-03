@@ -1,2 +1,2 @@
 # SweetPluginAPI
-A Plugin Framework Of SCPSL.Use it To Devlop plugin will be simple.
+A Plugin Framework Of SCPSL.Use it to devlop plugin will be simple.
